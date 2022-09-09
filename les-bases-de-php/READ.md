@@ -7,6 +7,7 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/Damour8333/-PHP-Les-bases-de-PHP.git
 git push -u origin main
+ git push origin  https://github.com/Damour8333/-PHP-Les-bases-de-PHP.git --force
 
 https://app.studi.fr/#/dashboard/events/28003/replay
 
